@@ -1,2 +1,2 @@
 Hi, my name is Illia Hromov
-<div style="width:100%;height:0;padding-bottom:104%;position:relative;"><iframe src="https://giphy.com/embed/DZR39sOOQWP8A7UoVs" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/reaction-DZR39sOOQWP8A7UoVs">via GIPHY</a></p>
+https://media2.giphy.com/media/DZR39sOOQWP8A7UoVs/giphy.gif?cid=ecf05e47a432e020d87181dd551ecd808d1dbee1fd9ac0ea&rid=giphy.gif
