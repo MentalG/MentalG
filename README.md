@@ -1,2 +1,2 @@
-![](https://media.giphy.com/media/ZH82yukB6v8xq/giphy.gif)
+![](https://img5.goodfon.ru/wallpaper/nbig/e/10/blockchain-supplychain-rendering-shtefanlounge.jpg)
 Hi, my name is Illia Hromov
