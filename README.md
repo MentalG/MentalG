@@ -70,9 +70,11 @@
 ## GitHub Stats
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MentalG&layout=compact&theme=default&title_color=0F6E56&text_color=1A1A1A&border_color=E1F5EE&bg_color=ffffff&hide_border=false&langs_count=6" alt="Top Languages"/>
-
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=MentalG&theme=default&hide_border=false&border_radius=8&ring=0F6E56&fire=1D9E75&currStreakLabel=0F6E56&sideLabels=0F6E56&currStreakNum=085041&sideNums=085041&dates=888780&border=E1F5EE&background=ffffff)](https://git.io/streak-stats)
+ 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MentalG&layout=compact&theme=default&title_color=0F6E56&text_color=1A1A1A&border_color=E1F5EE&bg_color=ffffff&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+ 
 </div>
 
 ---
